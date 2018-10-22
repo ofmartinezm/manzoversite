@@ -1,0 +1,109 @@
+.body{
+  width: 100%;
+  margin: 0;
+  padding: 0;  
+
+}
+
+.navmaster{
+    margin-top: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: url("../images/fondo.jpg") repeat-x ;
+    /*background: rgba(229,255,128,1);
+    background: -moz-linear-gradient(top, rgba(229,255,128,1) 0%, rgba(176,242,95,1) 71%, rgba(176,242,95,1) 80%);
+    background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(229,255,128,1)), color-stop(71%, rgba(176,242,95,1)), color-stop(80%, rgba(176,242,95,1)));
+    background: -webkit-linear-gradient(top, rgba(229,255,128,1) 0%, rgba(176,242,95,1) 71%, rgba(176,242,95,1) 80%);
+    background: -o-linear-gradient(top, rgba(229,255,128,1) 0%, rgba(176,242,95,1) 71%, rgba(176,242,95,1) 80%);
+    background: -ms-linear-gradient(top, rgba(229,255,128,1) 0%, rgba(176,242,95,1) 71%, rgba(176,242,95,1) 80%);
+    background: linear-gradient(to bottom, rgba(229,255,128,1) 0%, rgba(176,242,95,1) 71%, rgba(176,242,95,1) 80%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e5ff80', endColorstr='#b0f25f', GradientType=0 ); */
+}
+
+.navmaster h1, .navmaster h4{
+    color: #fff;
+    text-align: center;
+}
+
+.nav-item a{
+   color: #fff;
+   font-size: 1.5em;
+  
+}
+
+.navitem{
+    padding-left: 8px;
+    padding-right: 8px;
+}
+
+.footer{
+    margin-top: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    background: #313a42;
+    color: #fff;
+    margin-bottom: 2px;
+}
+
+.footer .container{
+    text-align: justify;
+
+}
+
+.footer .container div span{
+    padding-right: 20px;
+}
+.cprincipal{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#carouselExampleSlidesOnly{
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: rgba(0,0,0,0.2) 10px 10px 10px 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.article-content{
+    font-family: 'BenchNine', sans-serif;
+    font-size: 2em;
+    text-align: justify;
+    width: 70%;
+    padding-right: 20px;
+    padding-left: 20px;
+    
+}
+
+
+.card{
+    margin-right: 10px;
+}  
+.acercade{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: -webkit-inline-flex;
+    background: rgb(12,12,12,0.7);
+    
+}
+
+.servicios {
+    list-style-type: none;
+    color: #fff;
+}
+.servicios li a, .telefono a, .btn-group a{
+    text-decoration: none;
+    color: #fff;
+   
+}
+
+.servicios li a:hover, .telefono a:hover,.btn-group a {
+    font-size: 1.5em;
+    
+}
+
+

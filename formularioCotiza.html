@@ -1,0 +1,65 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+<meta charset="utf-8"/>
+<title>Formulario</title>
+<link href="styles.css" rel="stylesheet">
+<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+
+<!-- formulario de contacto -->
+
+	<form action="envia.php" method="post" class="form-consulta"> 
+        
+            
+            <div class="form-group row">
+                <label class="col-sm-2 col-form-label" for="email">Email:</label>
+                <div class="col-sm-10">
+                <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Ingrese su email">
+                </div>
+              </div>
+            
+              <div class="form-group row">
+                    <label for="telefono" class="col-sm-2 col-form-label">Telefono:</label>
+                    <div class="col-sm-10">
+                    <input type="text" class="form-control" id="telefono" name="telefono" placeholder="telefono">
+                </div>
+                  </div>
+              <div class="form-group row">
+                <label for="nombre" class="col-sm-2 col-form-label">Nombre:</label>
+                <div class="col-sm-10">
+                <input type="text" class="form-control" id="nombre" name="nombre" placeholder="nombre">
+                </div>
+              </div>
+              <div class="form-group row">
+                    <label for="empresa" class="col-sm-2 col-form-label">Empresa:</label>
+                    <div class="col-sm-10">
+                    <input type="text" class="form-control" id="empresa" name="empresa" placeholder="Nombre de la empresa y/o conjunto">
+                    </div>
+              </div>
+              
+              <div class="form-group row">
+                    <label for="consulta" class="col-sm-2 col-form-label">Solicitud:</label>
+                    <div class="col-sm-10">
+                    <textarea class="form-control" id="consulta" name="consulta" rows="5"></textarea>
+                    </div>
+            </div>
+              <button type="submit" class="btn btn-primary">Enviar Cotización</button>
+    </form>
+    
+
+
+
+<!-- formulario -->
+<script src="./js/bootstrap.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js"></script>
+    <script   src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+  <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/bootstrap.bundle.min.js.map"></script>
+
+</body>
+</html>

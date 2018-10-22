@@ -1,0 +1,24 @@
+[14-Sep-2018 14:48:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:49:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:49:21 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:49:22 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:49:22 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:50:39 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:50:40 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:50:41 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:50:43 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:54:18 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 11
+[14-Sep-2018 14:55:19 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 12
+[14-Sep-2018 14:55:20 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 12
+[14-Sep-2018 14:55:21 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 12
+[14-Sep-2018 14:55:21 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 12
+[14-Sep-2018 14:55:22 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 12
+[14-Sep-2018 14:55:22 Etc/GMT] PHP Parse error:  syntax error, unexpected ')' in /home/manzover/public_html/pruebaCorreo.php on line 12
+[14-Sep-2018 16:56:58 Etc/GMT] PHP Notice:  Undefined index: apellido in /home/manzover/public_html/envia.php on line 22
+[14-Sep-2018 17:34:48 Etc/GMT] PHP Notice:  Undefined index: apellido in /home/manzover/public_html/envia.php on line 24
+[17-Sep-2018 13:20:34 Etc/GMT] PHP Notice:  Undefined index: apellido in /home/manzover/public_html/envia.php on line 24
+[17-Sep-2018 13:23:17 Etc/GMT] PHP Notice:  Undefined index: apellido in /home/manzover/public_html/envia.php on line 24
+[21-Sep-2018 20:31:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/manzover/public_html/pruebaPHP.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/manzover/public_html/pruebaPHP.php on line 3
